@@ -1,0 +1,1 @@
+nullable-getter: false # Makes the .of() getter non-nullable

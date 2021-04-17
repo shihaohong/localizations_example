@@ -1,0 +1,14 @@
+{
+    "appBarTitle": "Flutter Localizations Demo",
+    "counterMessage": "You have pushed the button this many times: {count}",
+    "@counterMessage": {
+        "description": "A message indicating how many times a button has been pushed.",
+        "placeholders": {
+            "count": {}
+        }
+    },
+    "counterButtonTooltip": "Tooltip",
+    "@counterButtonTooltip": {
+        "description": "The tooltip that is displayed when the counter button is hovered over on web/desktop or long-pressed on mobile."
+    }
+}
